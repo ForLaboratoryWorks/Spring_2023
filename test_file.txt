@@ -1,0 +1,11 @@
+this is text for the test program > test_file.txt
+git add test_file.txt
+git commit -a -m move test_file
+git status
+git push
+
+
+
+
+ls
+echo this is text for the test program
