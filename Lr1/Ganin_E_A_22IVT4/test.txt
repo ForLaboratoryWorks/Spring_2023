@@ -1,3 +1,0 @@
-Hello world!
-new Test
-I am TI10 winner (false)

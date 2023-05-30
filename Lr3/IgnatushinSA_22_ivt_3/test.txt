@@ -1,3 +1,0 @@
-new Test
-new Line
-new test conflict
