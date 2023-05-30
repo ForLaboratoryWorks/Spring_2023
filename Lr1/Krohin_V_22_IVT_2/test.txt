@@ -1,0 +1,7 @@
+newRow
+newRow
+<<<<<<< HEAD
+newRow
+=======
+notNewRow
+>>>>>>> e234b53529aea9fac3612e6c359bdcc469b8d485
